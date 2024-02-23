@@ -78,10 +78,11 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
    * testing site ()
      - [Tablica trello.com]()
   * **Individual project**
-    * testing site MyStore - tasks solved during the manual tester course [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
+    * testing site [pyszne.pl](https://www.pyszne.pl)
+    * testing site MyStore [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
        - [Report]()
        - [Test cases]()
        - [Test cases - regression testing]()
-       - [Mind map](h)
+       - [Mind map]()
        - [Automated Postman tests]()
       
