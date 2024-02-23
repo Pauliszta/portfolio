@@ -75,16 +75,15 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
 * Test Cases
 * Test Scenarios
 
-## My Projects
+## My Projects(https://drive.google.com/drive/folders/1MZYiYVNg2pzcNEpwIRjK7wqd6XB2zRZm?usp=share_link)
  * **Group project** 
    * testing site ()
      - [Tablica trello.com]()
   * **Individual project**
     * testing site [pyszne.pl](https://www.pyszne.pl)
+       - [Test cases](https://drive.google.com/drive/folders/1y77anLdX5rX78jBwT8FNBAUFN3w-8QtN?usp=share_link) 
     * testing site MyStore [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
-       - [Report]()
-       - [Test cases]()
-       - [Test cases - regression testing]()
-       - [Mind map]()
-       - [Automated Postman tests]()
+       - [Report](https://drive.google.com/drive/folders/1ahe87_o07GSHs6HFeSZzpc_BnWvLlb9b?usp=share_link)
+       - [Test cases](https://drive.google.com/drive/folders/1Ydp0a04wQS6yyrVmt1KSlfm_vD0Jc2fS?usp=share_link)
+       - [Test cases - regression testing](https://drive.google.com/drive/folders/19SzcL9FfGDUi4V99LBOpBqkqg9ipRrJD?usp=share_link)
       
