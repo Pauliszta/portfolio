@@ -75,7 +75,7 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
 * Test Cases
 * Test Scenarios
 
-## My Projects(https://drive.google.com/drive/folders/1MZYiYVNg2pzcNEpwIRjK7wqd6XB2zRZm?usp=share_link)
+## My Projects
  * **Group project** 
    * testing site ()
      - [Tablica trello.com]()
