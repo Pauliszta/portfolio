@@ -61,9 +61,11 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
 
 ## Blogs read
 
+* [qamadness.com](https://www.qamadness.com/knowledge-base/interactive-platforms-to-practice-your-software-testing-skills/)
 * [testerzy.pl](http://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [roadmap.sh](https://roadmap.sh/qa)
 * [w3schools](https://www.w3schools.com)
 
 ## My Test Documentation
