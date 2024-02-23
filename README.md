@@ -63,7 +63,6 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
 
 * [testerzy.pl](http://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
-* [toniebug.pl](https://www.toniebug.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [w3schools](https://www.w3schools.com)
 
