@@ -1,9 +1,9 @@
 # tester.portfolio
-my tester's portfolio 
 
 ## About me
 
 Hi! I'm Paula and I'm at the beginning of my career as a software tester. I am a Certified ISTQB® Tester Basic Level. I can also program in Python and I know the basics of JavaScript, including Redux and React. Additionally, I can create queries in SQL. I am familiar with work methodologies such as Scrum and Kanban.
+
 My goal is to develop testing knowledge and technical skills. On this page I would like to share all my experiences gained during my personal studies. Below you will find the results of my work as a tester. 
 
 
@@ -76,13 +76,13 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
 
 ## My Projects
  * **Group project** 
-   * testing site [allegro.pl](https://allegro.pl/)
-     - [Tablica trello.com](https://trello.com/b/fZE6cidI/allegropl)
+   * testing site ()
+     - [Tablica trello.com]()
   * **Individual project**
-    * testing site MyStore - tasks solved during the manual tester course [mystore.pl]([https://www.zara.com/pl/](https://dev-mystore-testlab.coderslab.pl/index.php)
-       - [Report](https://drive.google.com/file/d/1AlygpsNK0Og1H7g8RRQjQs1e9LRotXYw/view)
-       - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
-       - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
-       - [Mind map](https://drive.google.com/file/d/1K8TamEa_IVchmcMzCX_bHoO0gVo22cym/view)
-       - [Automated Postman tests](https://drive.google.com/file/d/15kAl0pI02FJYXOYu_KyIKN2XcvBK3Cmm/view)
+    * testing site MyStore - tasks solved during the manual tester course [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
+       - [Report]()
+       - [Test cases]()
+       - [Test cases - regression testing]()
+       - [Mind map](h)
+       - [Automated Postman tests]()
       
