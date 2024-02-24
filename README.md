@@ -81,9 +81,12 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
      - [Tablica trello.com]()
   * **Individual project**
     * testing site [pyszne.pl](https://www.pyszne.pl)
-       - [Test cases](https://drive.google.com/drive/folders/1y77anLdX5rX78jBwT8FNBAUFN3w-8QtN?usp=share_link) 
+       - [Test cases](https://drive.google.com/drive/folders/1y77anLdX5rX78jBwT8FNBAUFN3w-8QtN?usp=share_link)
+    * creating user stories from tasks
+       - [User Stories](https://drive.google.com/file/d/1PZmyJUzoic9wqFKrA38es40kTMMWHm_2/view?usp=share_link)
     * testing site MyStore [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
        - [Report](https://drive.google.com/drive/folders/1ahe87_o07GSHs6HFeSZzpc_BnWvLlb9b?usp=share_link)
        - [Test cases](https://drive.google.com/drive/folders/1Ydp0a04wQS6yyrVmt1KSlfm_vD0Jc2fS?usp=share_link)
        - [Test cases - regression testing](https://drive.google.com/drive/folders/19SzcL9FfGDUi4V99LBOpBqkqg9ipRrJD?usp=share_link)
+       - [BPMN - 2 examples of diagrams](https://drive.google.com/file/d/1K7vpYi4PZ60uMKI_j7-oIyONmlveFqOr/view?usp=share_link)
       
