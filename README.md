@@ -83,7 +83,9 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
     * testing site [pyszne.pl](https://www.pyszne.pl)
        - [Test cases](https://drive.google.com/drive/folders/1y77anLdX5rX78jBwT8FNBAUFN3w-8QtN?usp=share_link)
     * creating user stories from tasks
-       - [User Stories](https://drive.google.com/file/d/1PZmyJUzoic9wqFKrA38es40kTMMWHm_2/view?usp=share_link)
+       - [User Stories](https://drive.google.com/file/d/1Wi3y1154EUJtqqPN1S650vDKu8-TGQvY/view?usp=sharing)
+    * tasks with SQL
+       - [SQL tasks](https://drive.google.com/drive/folders/1AnwWoz9HQQ50HCPzl_DbjxU_-wXkjXEK?usp=sharing)
     * testing site MyStore [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
        - [Report](https://drive.google.com/drive/folders/1ahe87_o07GSHs6HFeSZzpc_BnWvLlb9b?usp=share_link)
        - [Test cases](https://drive.google.com/drive/folders/1Ydp0a04wQS6yyrVmt1KSlfm_vD0Jc2fS?usp=share_link)
