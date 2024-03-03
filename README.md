@@ -86,6 +86,8 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
        - [User Stories](https://drive.google.com/file/d/1Wi3y1154EUJtqqPN1S650vDKu8-TGQvY/view?usp=sharing)
     * tasks with SQL
        - [SQL tasks](https://drive.google.com/drive/folders/1AnwWoz9HQQ50HCPzl_DbjxU_-wXkjXEK?usp=sharing)
+    * tasks with UML diagrams
+       - [UML diagrams](https://drive.google.com/drive/folders/1XfMXpm2eGwU5F8V965dCPq1srILyIXDs?usp=share_link)
     * testing site MyStore [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
        - [Report](https://drive.google.com/drive/folders/1ahe87_o07GSHs6HFeSZzpc_BnWvLlb9b?usp=share_link)
        - [Test cases](https://drive.google.com/drive/folders/1Ydp0a04wQS6yyrVmt1KSlfm_vD0Jc2fS?usp=share_link)
