@@ -85,12 +85,16 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
     * creating user stories from tasks
        - [User Stories](https://drive.google.com/file/d/1Wi3y1154EUJtqqPN1S650vDKu8-TGQvY/view?usp=sharing)
     * tasks with SQL
-       - [SQL tasks](https://drive.google.com/drive/folders/1AnwWoz9HQQ50HCPzl_DbjxU_-wXkjXEK?usp=sharing)
+       - [in progress - SQL tasks](https://drive.google.com/drive/folders/1AnwWoz9HQQ50HCPzl_DbjxU_-wXkjXEK?usp=sharing)
     * tasks with UML diagrams
        - [UML diagrams](https://drive.google.com/drive/folders/1XfMXpm2eGwU5F8V965dCPq1srILyIXDs?usp=share_link)
+    * tasks with BPMN diagrams
+       - [BPMN diagrams](https://drive.google.com/file/d/1tKXMR0BTRWurxJuO17gmOeABgy9lix7T/view?usp=share_link)
     * testing site MyStore [mystore.pl](https://dev-mystore-testlab.coderslab.pl/index.php)
        - [Report](https://drive.google.com/drive/folders/1ahe87_o07GSHs6HFeSZzpc_BnWvLlb9b?usp=share_link)
        - [Test cases](https://drive.google.com/drive/folders/1Ydp0a04wQS6yyrVmt1KSlfm_vD0Jc2fS?usp=share_link)
        - [Test cases - regression testing](https://drive.google.com/drive/folders/19SzcL9FfGDUi4V99LBOpBqkqg9ipRrJD?usp=share_link)
        - [BPMN - 2 examples of diagrams](https://drive.google.com/file/d/1K7vpYi4PZ60uMKI_j7-oIyONmlveFqOr/view?usp=share_link)
+    * testing FinTech Apps (apps to manage the budget)
+       - [in progress - test cases based on control list](https://docs.google.com/spreadsheets/d/1Po2oiZFNZvFe3hARQDLtebDE1zjtSmiq/edit?usp=share_link&ouid=117400591330673456327&rtpof=true&sd=true)
       
