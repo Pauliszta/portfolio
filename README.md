@@ -82,7 +82,7 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
     * creating user stories from tasks
        - [User Stories](https://drive.google.com/file/d/1Wi3y1154EUJtqqPN1S650vDKu8-TGQvY/view?usp=sharing)
     * tasks with SQL
-       - [in progress - SQL tasks](https://drive.google.com/drive/folders/1AnwWoz9HQQ50HCPzl_DbjxU_-wXkjXEK?usp=sharing)
+       - [SQL tasks](https://drive.google.com/drive/folders/1AnwWoz9HQQ50HCPzl_DbjxU_-wXkjXEK?usp=sharing)
     * tasks with diagrams
        - [UML diagrams](https://drive.google.com/drive/folders/1XfMXpm2eGwU5F8V965dCPq1srILyIXDs?usp=share_link)
        - [BPMN diagrams](https://drive.google.com/file/d/1tKXMR0BTRWurxJuO17gmOeABgy9lix7T/view?usp=share_link)
@@ -93,5 +93,5 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
        - [Test cases - regression testing](https://drive.google.com/drive/folders/19SzcL9FfGDUi4V99LBOpBqkqg9ipRrJD?usp=share_link)
        - [BPMN - 2 examples of diagrams](https://drive.google.com/file/d/1K7vpYi4PZ60uMKI_j7-oIyONmlveFqOr/view?usp=share_link)
     * testing FinTech Apps (apps to manage the budget)
-       - [in progress - test cases based on control list](https://docs.google.com/spreadsheets/d/1Po2oiZFNZvFe3hARQDLtebDE1zjtSmiq/edit?usp=share_link&ouid=117400591330673456327&rtpof=true&sd=true)
+       - [Test cases based on control list](https://docs.google.com/spreadsheets/d/1Po2oiZFNZvFe3hARQDLtebDE1zjtSmiq/edit?usp=share_link&ouid=117400591330673456327&rtpof=true&sd=true)
       
