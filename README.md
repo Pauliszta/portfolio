@@ -76,9 +76,6 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
 * Test Scenarios
 
 ## My Projects
- * **Group project** 
-   * testing site ()
-     - [in progress - Tablica trello.com]()
   * **Individual project**
     * testing site [pyszne.pl](https://www.pyszne.pl)
        - [Test cases](https://drive.google.com/drive/folders/1y77anLdX5rX78jBwT8FNBAUFN3w-8QtN?usp=share_link)
