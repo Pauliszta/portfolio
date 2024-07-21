@@ -1,4 +1,4 @@
-# tester.portfolio
+# portfolio
 
 ## About me
 
