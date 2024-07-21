@@ -4,7 +4,7 @@
 
 Hi! I'm Paula and I'm at the beginning of my career as a software tester. I am a Certified ISTQB® Tester Basic Level. I can also program in Python and I know the basics of JavaScript, including Redux and React. Additionally, I can create queries in SQL. I am familiar with work methodologies such as Scrum and Kanban.
 
-My goal is to develop testing knowledge and technical skills. On this page I would like to share all my experiences gained during my personal studies. Below you will find the results of my work as a tester. 
+My goal is to develop testing knowledge and technical skills. On this page I would like to share all my experiences gained during my personal studies. Below you will find the results of my work. 
 
 
 ## Tech skills
