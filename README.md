@@ -95,5 +95,5 @@ My goal is to develop testing knowledge and technical skills. On this page I wou
     * testing FinTech Apps (apps to manage the budget)
        - [Test cases based on control list](https://docs.google.com/spreadsheets/d/1Po2oiZFNZvFe3hARQDLtebDE1zjtSmiq/edit?usp=share_link&ouid=117400591330673456327&rtpof=true&sd=true)
     * testing site [rally.pl](https://rallly.co/pl)
-       - [Automation tests](https://github.com/Pauliszta/rallly.pl)
+       - [Automation tests](https://github.com/Pauliszta/Rallly.pl)
       
